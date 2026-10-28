@@ -1,0 +1,19 @@
+Resolving dependencies...
+Downloading packages...
+  material_color_utilities 0.13.0 (0.13.1 available)
+  meta 1.18.3 (1.19.0 available)
+  shared_preferences_foundation 2.5.7 (2.6.1 available)
+  test_api 0.7.12 (0.7.15 available)
+  vector_math 2.4.0 (2.4.4 available)
+Got dependencies!
+5 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+00:00 +0: loading C:/Users/liuyu/Desktop/Delivery/test/app_test.dart
+00:00 +0: weighted quantities and additions round in integer cents
+00:00 +1: cart merges equal options but keeps different notes and prices separate
+00:00 +2: removing the last item also removes the delivery charge
+00:00 +3: checkout snapshots do not change when a later cart is edited
+00:00 +4: a custom request has pending goods prices and an honest delivery-only total
+00:00 +5: profile, favorites, orders and card masks survive a local reload
+00:00 +6: a damaged local snapshot falls back to the demo catalog
+00:00 +7: All tests passed!

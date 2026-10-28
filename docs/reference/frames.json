@@ -1,0 +1,535 @@
+[
+  {
+    "id": "0:2",
+    "name": "Selected goods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4375,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "0:24",
+    "name": "Selected goods loose",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4820,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:46",
+    "name": "courier_order customtime",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3930,
+      "y": 2701,
+      "width": 375,
+      "height": 1405
+    },
+    "parentId": "0:1",
+    "childCount": 13
+  },
+  {
+    "id": "0:82",
+    "name": "courier_order_today",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3485,
+      "y": 2701,
+      "width": 375,
+      "height": 1405
+    },
+    "parentId": "0:1",
+    "childCount": 13
+  },
+  {
+    "id": "0:118",
+    "name": "courier_order_today data picker",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3040,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 19
+  },
+  {
+    "id": "0:160",
+    "name": "orders current ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2595,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "0:170",
+    "name": "orders planned",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2150,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "0:180",
+    "name": "current order ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1709,
+      "y": 2701,
+      "width": 375,
+      "height": 1313
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:208",
+    "name": "planned order",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1261,
+      "y": 2701,
+      "width": 375,
+      "height": 1214
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:236",
+    "name": "cart",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5265,
+      "y": 4281,
+      "width": 375,
+      "height": 1265
+    },
+    "parentId": "0:1",
+    "childCount": 13
+  },
+  {
+    "id": "0:282",
+    "name": "Profile",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4820,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "0:308",
+    "name": "user info",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4375,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:331",
+    "name": "user info edit",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3930,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "0:353",
+    "name": "credit card ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3485,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "0:363",
+    "name": "add card empty",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3040,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "0:382",
+    "name": "add card ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2595,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 6
+  },
+  {
+    "id": "0:401",
+    "name": "favorites box",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1261,
+      "y": 4295,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "0:411",
+    "name": "favoritesgoods filter appled",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1709,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "0:432",
+    "name": "favoritesgoods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2150,
+      "y": 4281,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 7
+  },
+  {
+    "id": "0:453",
+    "name": "selected favorites box",
+    "type": "FRAME",
+    "bounds": {
+      "x": -777,
+      "y": 4295,
+      "width": 375,
+      "height": 853
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "0:476",
+    "name": "selected dish",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2150,
+      "y": 930,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:505",
+    "name": "selected dish with optional info",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1709,
+      "y": 934,
+      "width": 375,
+      "height": 992
+    },
+    "parentId": "0:1",
+    "childCount": 10
+  },
+  {
+    "id": "0:540",
+    "name": "selected cafe",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3042,
+      "y": 930,
+      "width": 375,
+      "height": 1296
+    },
+    "parentId": "0:1",
+    "childCount": 14
+  },
+  {
+    "id": "0:580",
+    "name": "selected supermarket",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1261,
+      "y": 934,
+      "width": 375,
+      "height": 1296
+    },
+    "parentId": "0:1",
+    "childCount": 12
+  },
+  {
+    "id": "0:619",
+    "name": "selected market without list of goods",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5265,
+      "y": 2701,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 11
+  },
+  {
+    "id": "0:641",
+    "name": "menu",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2591,
+      "y": 934,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 18
+  },
+  {
+    "id": "0:693",
+    "name": "list of cafe",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5265,
+      "y": 930,
+      "width": 375,
+      "height": 1631
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "25:6123",
+    "name": "list of cafe filter applied",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3493,
+      "y": 934,
+      "width": 375,
+      "height": 1631
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "0:838",
+    "name": "home ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1261,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "0:862",
+    "name": "onboarding screen #3",
+    "type": "FRAME",
+    "bounds": {
+      "x": -1708,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "0:875",
+    "name": "onboarding screen #2",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2150,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "0:888",
+    "name": "onboarding screen #1",
+    "type": "FRAME",
+    "bounds": {
+      "x": -2595,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "0:901",
+    "name": "sign in emty",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4375,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 8
+  },
+  {
+    "id": "0:918",
+    "name": "sign in ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3926,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "0:935",
+    "name": "entercode empty",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3485,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "0:957",
+    "name": "splash screen",
+    "type": "FRAME",
+    "bounds": {
+      "x": -5289,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 4
+  },
+  {
+    "id": "0:975",
+    "name": "entercode ",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3044,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 5
+  },
+  {
+    "id": "0:997",
+    "name": "sign up",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4823,
+      "y": -22,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "25:7388",
+    "name": "filter sort by",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4375,
+      "y": 938,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "25:7670",
+    "name": "filter diet",
+    "type": "FRAME",
+    "bounds": {
+      "x": -4823,
+      "y": 930,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  },
+  {
+    "id": "25:7957",
+    "name": "filter cuisine",
+    "type": "FRAME",
+    "bounds": {
+      "x": -3926,
+      "y": 938,
+      "width": 375,
+      "height": 812
+    },
+    "parentId": "0:1",
+    "childCount": 9
+  }
+]
